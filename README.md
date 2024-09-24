@@ -1,2 +1,3 @@
 # new-project-1
-my first  git repository
+myfirst  git repository
+Md Najmul Hasan Tosif
